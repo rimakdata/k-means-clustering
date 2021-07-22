@@ -1,1 +1,1 @@
-# k-means-clustering
+# Customer segmentation using k-means-clustering
